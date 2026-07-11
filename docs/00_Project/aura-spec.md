@@ -43,6 +43,14 @@ Local copy: /Users/urijlebedinskij/Documents/CODEX/AURA
 
 All project documents created by ChatGPT / Codex must be reflected in both locations.
 
+## Project Rule 001
+
+AURA does not use chat as project storage.
+
+Chat is used for decisions, tradeoff discussion, and result verification. Accepted project state must live in the repository.
+
+Repository releases, not isolated chat messages, are the unit of project progress.
+
 ## Required Artifact Metadata
 
 Every major artifact must include:
@@ -256,6 +264,8 @@ Every release note must explain:
 - user or developer impact
 - validation performed
 - known limitations
+
+Work must be grouped into coherent repository releases. Each release must contain a finished package of documents or implementation work that can be understood without private chat context.
 
 ## Review Rules
 
