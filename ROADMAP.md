@@ -5,6 +5,7 @@
 - Repository structure
 - Operating responsibilities
 - Claude Code task template
+- Technical Product Manager guardrails
 - Sprint 0 package
 - S0-001 AURA Specification
 - Master index
