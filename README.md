@@ -51,6 +51,7 @@ See:
 - [docs/00_Project/project-rule-001-repository-as-source-of-truth.md](docs/00_Project/project-rule-001-repository-as-source-of-truth.md)
 - [docs/00_Project/repository-release-plan.md](docs/00_Project/repository-release-plan.md)
 - [docs/00_Project/sprint-0-package.md](docs/00_Project/sprint-0-package.md)
+- [docs/00_Project/sprint-0-foundation-repository.md](docs/00_Project/sprint-0-foundation-repository.md)
 - [docs/00_Project/operating-responsibilities.md](docs/00_Project/operating-responsibilities.md)
 - [docs/00_Project/technical-product-management.md](docs/00_Project/technical-product-management.md)
 - [docs/00_Project/claude-code-task-template.md](docs/00_Project/claude-code-task-template.md)
@@ -62,5 +63,9 @@ AURA progresses through complete repository releases, not isolated chat messages
 Current target:
 
 ```text
-Repository v0.2: Engineering Documentation Foundation
+Repository v0.2: Foundation Repository
 ```
+
+## Product Direction
+
+AURA is a commercial local LLM assistant for mobile devices. It must work autonomously on user devices, including offline use without internet access, and become a daily assistant and personal knowledge base that users trust and are willing to pay for.
