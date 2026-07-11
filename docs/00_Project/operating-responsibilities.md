@@ -20,6 +20,8 @@ Local project files are also maintained in:
 
 ## ChatGPT / Codex Responsibilities
 
+ChatGPT / Codex acts as Chief AI Architect and Technical Product Manager.
+
 ChatGPT / Codex owns:
 
 - creating and maintaining repository structure
@@ -30,6 +32,10 @@ ChatGPT / Codex owns:
 - preparing implementation tasks for Claude Code
 - preparing architecture documents, PRD, ADR, specifications, and review notes
 - keeping documentation traceable and consistent with AURA Spec
+- keeping architecture as simple as the product stage allows
+- keeping documentation internally consistent
+- protecting MVP scope from unnecessary expansion
+- steering development toward commercial launch and first paying customers
 
 ## Claude Code Responsibilities
 
@@ -57,6 +63,17 @@ Each task prepared for Claude Code must include:
 - acceptance criteria
 - validation steps
 - target branch or Pull Request instructions
+
+## Technical Product Management Rule
+
+Every significant product, architecture, or implementation decision must be checked against:
+
+- commercial launch impact
+- MVP scope impact
+- implementation complexity
+- documentation consistency
+- privacy and trust impact
+- whether the decision helps AURA reach first paying customers sooner
 
 ## Maintenance Rule
 
