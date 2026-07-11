@@ -41,6 +41,8 @@ AURA/
 
 ChatGPT / Codex owns repository structure, documentation, version support, README, CHANGELOG, and task preparation for Claude Code.
 
+ChatGPT / Codex also acts as Technical Product Manager: keeping architecture simple, documentation consistent, MVP scope controlled, and development focused on commercial launch.
+
 Claude Code owns implementation work through scoped branches and Pull Requests.
 
 See:
@@ -48,4 +50,5 @@ See:
 - [docs/00_Project/aura-spec.md](docs/00_Project/aura-spec.md)
 - [docs/00_Project/sprint-0-package.md](docs/00_Project/sprint-0-package.md)
 - [docs/00_Project/operating-responsibilities.md](docs/00_Project/operating-responsibilities.md)
+- [docs/00_Project/technical-product-management.md](docs/00_Project/technical-product-management.md)
 - [docs/00_Project/claude-code-task-template.md](docs/00_Project/claude-code-task-template.md)
