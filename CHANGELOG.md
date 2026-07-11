@@ -14,3 +14,4 @@ All notable changes to AURA will be documented in this file.
 - Added repository release plan and planned `Repository v0.2` release notes.
 - Started Sprint 0 as `Foundation Repository` using one-week Scrum sprint framing.
 - Updated product context: AURA is a commercial offline-first local LLM assistant for mobile devices and daily use.
+- Accepted value proposition validation as a required stage before active code development.
