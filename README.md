@@ -36,3 +36,14 @@ AURA/
 ├── LICENSE
 └── ROADMAP.md
 ```
+
+## Operating Roles
+
+ChatGPT / Codex owns repository structure, documentation, version support, README, CHANGELOG, and task preparation for Claude Code.
+
+Claude Code owns implementation work through scoped branches and Pull Requests.
+
+See:
+
+- [docs/00_Project/operating-responsibilities.md](docs/00_Project/operating-responsibilities.md)
+- [docs/00_Project/claude-code-task-template.md](docs/00_Project/claude-code-task-template.md)
