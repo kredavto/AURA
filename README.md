@@ -45,5 +45,6 @@ Claude Code owns implementation work through scoped branches and Pull Requests.
 
 See:
 
+- [docs/00_Project/aura-spec.md](docs/00_Project/aura-spec.md)
 - [docs/00_Project/operating-responsibilities.md](docs/00_Project/operating-responsibilities.md)
 - [docs/00_Project/claude-code-task-template.md](docs/00_Project/claude-code-task-template.md)
