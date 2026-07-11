@@ -83,7 +83,7 @@ Each completed task must be reflected in:
 
 After Sprint 0 is complete, AURA should receive the next repository version, such as `v0.2.0`, with release notes in `releases/`.
 
-Sprint 0 work should feed into `Repository v0.2: Engineering Documentation Foundation`.
+Sprint 0 work should feed into `Repository v0.2: Foundation Repository`.
 
 Project progress is measured by completed repository releases, not by chat messages or isolated documents.
 
