@@ -69,3 +69,5 @@ Repository v0.2: Foundation Repository
 ## Product Direction
 
 AURA is a commercial local LLM assistant for mobile devices. It must work autonomously on user devices, including offline use without internet access, and become a daily assistant and personal knowledge base that users trust and are willing to pay for.
+
+Before active code development, AURA must complete a value proposition validation stage with potential users.
