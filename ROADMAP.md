@@ -3,6 +3,8 @@
 ## Sprint 0
 
 - Repository structure
+- Operating responsibilities
+- Claude Code task template
 - Project specification
 - Master index
 - Architecture decision records
