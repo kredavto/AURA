@@ -5,10 +5,11 @@
 | Release | Theme | Status |
 | --- | --- | --- |
 | v0.2 | Foundation Repository | Planned |
-| v0.3 | Implementation Preparation | Planned |
-| v0.4 | MVP Source Code Foundation | Planned |
-| v0.5 | Private Alpha Readiness | Planned |
-| v0.6+ | Commercial MVP | Planned |
+| v0.3 | Value Proposition Validation | Planned |
+| v0.4 | Implementation Preparation | Planned |
+| v0.5 | MVP Source Code Foundation | Planned |
+| v0.6 | Private Alpha Readiness | Planned |
+| v0.7+ | Commercial MVP | Planned |
 
 ## Sprint 0
 
@@ -38,4 +39,5 @@
 - Daily assistant and personal knowledge base
 - Local memory and privacy-preserving user context
 - Voice and text interaction
+- Validated value proposition before active code development
 - First paying customer readiness
