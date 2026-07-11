@@ -43,6 +43,7 @@ Every major decision should be evaluated by whether it helps or delays this goal
 MVP work should prioritize:
 
 - a clear user problem
+- validated value proposition before active code development
 - a small number of high-value workflows
 - local-first trust and privacy
 - fast validation with real users
@@ -98,6 +99,7 @@ Tasks prepared for Claude Code must:
 Before approving a major task or architecture decision, ask:
 
 - Does this help us reach first paying customers?
+- Has the value proposition been tested with potential users?
 - Does this reduce user risk or increase user trust?
 - Is this needed for MVP, or can it wait?
 - Can it be validated quickly?
@@ -109,6 +111,7 @@ Before approving a major task or architecture decision, ask:
 When there is a tradeoff, prefer:
 
 - launch learning over technical completeness
+- validated demand over speculative implementation
 - user value over internal elegance
 - fewer features over unclear scope
 - explicit approvals over hidden automation
