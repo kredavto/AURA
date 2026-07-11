@@ -18,11 +18,11 @@ The release unit is a finished package of repository content, not a chat answer.
 
 | Release | Theme | Purpose | Output |
 | --- | --- | --- | --- |
-| v0.2 | Engineering Documentation Foundation | Make the repository navigable and decision-ready | Master Index, ADR set, documentation standards, release notes |
-| v0.3 | Mobile Architecture | Define the mobile client architecture before implementation | Mobile client architecture, Android architecture, iOS architecture |
-| v0.4 | AI Core And Memory | Define the AI runtime, memory, STT, TTS, and model routing | AI Core docs, Memory docs, STT/TTS architecture, Model Router architecture |
-| v0.5 | Security, CI/CD, Testing | Define the safety and engineering quality foundation | Security architecture, CI/CD plan, testing strategy |
-| v0.6+ | Source Code Implementation | Begin implementation from accepted architecture | Scoped implementation tasks and Pull Requests |
+| v0.2 | Foundation Repository | Complete Sprint 0 foundation before coding | Master Index, ADRs, mobile architecture, AI architecture, Memory, STT, TTS, model router, security architecture |
+| v0.3 | Implementation Preparation | Prepare Claude Code implementation tasks | Feature backlog, task specs, implementation sequencing |
+| v0.4 | MVP Source Code Foundation | Begin implementation from accepted architecture | Mobile shared core, local runtime skeleton, tests |
+| v0.5 | Private Alpha Readiness | Make the first user-testable local assistant build | Offline assistant loop, memory prototype, security baseline |
+| v0.6+ | Commercial MVP | Move toward first paying customers | Launch-critical features, packaging, onboarding, payments when ready |
 
 ## Release Completion Criteria
 
@@ -41,10 +41,10 @@ Each release is complete when:
 The current target is:
 
 ```text
-Repository v0.2: Engineering Documentation Foundation
+Repository v0.2: Foundation Repository
 ```
 
-v0.2 should complete the documentation and decision foundation needed before larger architecture and code implementation.
+v0.2 should complete Sprint 0: the repository, documentation, decisions, mobile architecture, AI architecture, memory, speech, and security foundation needed before source code implementation.
 
 ## Versioning Rule
 
