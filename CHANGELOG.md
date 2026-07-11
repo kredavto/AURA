@@ -12,3 +12,5 @@ All notable changes to AURA will be documented in this file.
 - Accepted ChatGPT / Codex Technical Product Manager role and added product guardrails for MVP scope, launch focus, and commercial readiness.
 - Accepted Project Rule 001: repository is the source of truth; chat is only for decisions and verification.
 - Added repository release plan and planned `Repository v0.2` release notes.
+- Started Sprint 0 as `Foundation Repository` using one-week Scrum sprint framing.
+- Updated product context: AURA is a commercial offline-first local LLM assistant for mobile devices and daily use.
