@@ -5,7 +5,7 @@
 - Repository structure
 - Operating responsibilities
 - Claude Code task template
-- Project specification
+- S0-001 AURA Specification
 - Master index
 - Architecture decision records
 - Mobile architecture
