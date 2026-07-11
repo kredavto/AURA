@@ -48,7 +48,19 @@ Claude Code owns implementation work through scoped branches and Pull Requests.
 See:
 
 - [docs/00_Project/aura-spec.md](docs/00_Project/aura-spec.md)
+- [docs/00_Project/project-rule-001-repository-as-source-of-truth.md](docs/00_Project/project-rule-001-repository-as-source-of-truth.md)
+- [docs/00_Project/repository-release-plan.md](docs/00_Project/repository-release-plan.md)
 - [docs/00_Project/sprint-0-package.md](docs/00_Project/sprint-0-package.md)
 - [docs/00_Project/operating-responsibilities.md](docs/00_Project/operating-responsibilities.md)
 - [docs/00_Project/technical-product-management.md](docs/00_Project/technical-product-management.md)
 - [docs/00_Project/claude-code-task-template.md](docs/00_Project/claude-code-task-template.md)
+
+## Repository Releases
+
+AURA progresses through complete repository releases, not isolated chat messages.
+
+Current target:
+
+```text
+Repository v0.2: Engineering Documentation Foundation
+```
