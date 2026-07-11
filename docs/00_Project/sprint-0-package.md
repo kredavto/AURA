@@ -4,6 +4,10 @@
 
 Accepted
 
+## Method
+
+Scrum with one-week sprints.
+
 ## Purpose
 
 Sprint 0 is the foundation sprint for AURA. Its result is not one document, but a complete repository package that makes the project understandable, maintainable, and ready for implementation work by Claude Code and future contributors.
@@ -17,9 +21,17 @@ Create the professional operating base for AURA:
 - architecture decision records
 - mobile architecture
 - AI architecture
+- memory engine architecture
+- STT and TTS architecture
 - security architecture
 - task format for implementation agents
 - repository versioning discipline
+
+## Product Context
+
+AURA is a commercial local LLM assistant for mobile devices.
+
+It must work autonomously on user devices, including offline use without internet access. The product goal is to become a daily assistant and personal knowledge base that users trust, use frequently, and are willing to pay for.
 
 ## Backlog
 
@@ -35,6 +47,9 @@ Create the professional operating base for AURA:
 | S0-008 | TTS Engine | Planned | Text-to-speech engine architecture |
 | S0-009 | AI Model Router | Planned | AI model routing architecture |
 | S0-010 | Security Architecture | Planned | Security architecture |
+| S0-011 | AI Architecture | Planned | Full AI architecture |
+| S0-012 | Memory Engine | Planned | Memory Engine architecture |
+| S0-013 | Shared Core Architecture | Planned | Shared mobile/core architecture |
 
 ## Package Definition
 
@@ -45,6 +60,8 @@ Sprint 0 is complete only when the repository contains:
 - foundational ADRs
 - mobile architecture documents
 - AI engine architecture documents
+- Memory Engine architecture
+- STT and TTS architecture
 - security architecture
 - updated README
 - updated CHANGELOG
@@ -79,3 +96,4 @@ A Sprint 0 task is done when:
 - related indexes or roadmap entries are updated
 - the same content exists locally and in GitHub
 - the result is clear enough for Claude Code or another contributor to continue without private chat context
+- Claude Code can start implementation without making major architecture decisions
