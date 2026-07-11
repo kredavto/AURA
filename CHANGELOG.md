@@ -10,3 +10,5 @@ All notable changes to AURA will be documented in this file.
 - Completed S0-001 AURA Specification as the internal standard for project artifacts.
 - Added Sprint 0 package definition and backlog.
 - Accepted ChatGPT / Codex Technical Product Manager role and added product guardrails for MVP scope, launch focus, and commercial readiness.
+- Accepted Project Rule 001: repository is the source of truth; chat is only for decisions and verification.
+- Added repository release plan and planned `Repository v0.2` release notes.
