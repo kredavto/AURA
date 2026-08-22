@@ -47,7 +47,7 @@ Sprint 0 includes:
 | S0-002 | Master Index | Done | `docs/00_Project/master-index.md` |
 | S0-003 | ADR-0001...0010 | Done | `docs/adr/` |
 | S0-004 | Mobile Client Architecture | Done | `docs/04_Mobile/mobile-client-architecture.md` |
-| S0-005 | Android Architecture | Planned | `docs/04_Mobile/android-architecture.md` |
+| S0-005 | Android Architecture | Done | `docs/04_Mobile/android-architecture.md` |
 | S0-006 | iOS Architecture | Planned | `docs/04_Mobile/ios-architecture.md` |
 | S0-007 | STT Engine | Planned | `docs/03_AI/stt-engine.md` |
 | S0-008 | TTS Engine | Planned | `docs/03_AI/tts-engine.md` |
