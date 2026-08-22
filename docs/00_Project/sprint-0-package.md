@@ -41,7 +41,7 @@ It must work autonomously on user devices, including offline use without interne
 | S0-002 | Master Index | Done | Repository-wide navigation and document map |
 | S0-003 | ADR-0001...0010 | Done | Ten foundational architecture decision records |
 | S0-004 | Mobile Client Architecture | Done | Cross-platform mobile architecture |
-| S0-005 | Android Architecture | Planned | Android-specific architecture |
+| S0-005 | Android Architecture | Done | Android-specific architecture |
 | S0-006 | iOS Architecture | Planned | iOS-specific architecture |
 | S0-007 | STT Engine | Planned | Speech-to-text engine architecture |
 | S0-008 | TTS Engine | Planned | Text-to-speech engine architecture |
