@@ -14,3 +14,4 @@ Mobile product direction, iOS and Android architecture, offline behavior, notifi
 | --- | --- | --- |
 | `mobile-client-architecture.md` | S0-004 cross-platform mobile client architecture | Accepted |
 | `android-architecture.md` | S0-005 Android-specific architecture | Accepted |
+| `ios-architecture.md` | S0-006 iOS-specific architecture | Accepted |
