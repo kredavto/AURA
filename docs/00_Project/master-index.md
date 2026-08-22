@@ -113,11 +113,8 @@ Planned Sprint 0 outputs:
 | `docs/04_Mobile/README.md` | Mobile documentation index | Active |
 | `docs/04_Mobile/mobile-client-architecture.md` | Cross-platform mobile client architecture | Accepted |
 | `docs/04_Mobile/android-architecture.md` | Android-specific architecture | Accepted |
+| `docs/04_Mobile/ios-architecture.md` | iOS-specific architecture | Accepted |
 | `mobile/README.md` | Future mobile code area | Placeholder |
-
-Planned Sprint 0 output:
-
-- `docs/04_Mobile/ios-architecture.md`
 
 ## Security
 
@@ -162,7 +159,7 @@ Planned Sprint 0 output:
 | S0-003 | ADR-0001...0010 | Done |
 | S0-004 | Mobile Client Architecture | Done |
 | S0-005 | Android Architecture | Done |
-| S0-006 | iOS Architecture | Planned |
+| S0-006 | iOS Architecture | Done |
 | S0-007 | STT Engine | Planned |
 | S0-008 | TTS Engine | Planned |
 | S0-009 | AI Model Router | Planned |
@@ -176,7 +173,7 @@ Planned Sprint 0 output:
 Next task:
 
 ```text
-S0-006: iOS Architecture
+S0-011: AI Architecture
 ```
 
-Reason: iOS architecture should now mirror the Android level of specificity while respecting iOS runtime, storage, permission, and speech constraints.
+Reason: mobile platform boundaries are now defined, so AI Architecture should define the assistant, prompt orchestration, model runtime, and evaluation structure before Memory, STT, TTS, and Router details are expanded.
