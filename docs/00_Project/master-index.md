@@ -96,11 +96,11 @@ The goal of v0.2 is to complete the foundation needed before Claude Code starts 
 | Path | Purpose | Status |
 | --- | --- | --- |
 | `docs/03_AI/README.md` | AI section index | Active |
+| `docs/03_AI/ai-architecture.md` | AI assistant architecture | Accepted |
 | `ai/README.md` | Future AI-core code area | Placeholder |
 
 Planned Sprint 0 outputs:
 
-- `docs/03_AI/ai-architecture.md`
 - `docs/03_AI/memory-engine.md`
 - `docs/03_AI/stt-engine.md`
 - `docs/03_AI/tts-engine.md`
@@ -164,7 +164,7 @@ Planned Sprint 0 output:
 | S0-008 | TTS Engine | Planned |
 | S0-009 | AI Model Router | Planned |
 | S0-010 | Security Architecture | Planned |
-| S0-011 | AI Architecture | Planned |
+| S0-011 | AI Architecture | Done |
 | S0-012 | Memory Engine | Planned |
 | S0-013 | Shared Core Architecture | Done |
 
@@ -173,7 +173,7 @@ Planned Sprint 0 output:
 Next task:
 
 ```text
-S0-011: AI Architecture
+S0-012: Memory Engine
 ```
 
-Reason: mobile platform boundaries are now defined, so AI Architecture should define the assistant, prompt orchestration, model runtime, and evaluation structure before Memory, STT, TTS, and Router details are expanded.
+Reason: Memory Engine should now define local memory storage, retrieval, update, deletion, and user-control behavior based on the accepted AI Architecture.
