@@ -49,7 +49,7 @@ It must work autonomously on user devices, including offline use without interne
 | S0-010 | Security Architecture | Planned | Security architecture |
 | S0-011 | AI Architecture | Planned | Full AI architecture |
 | S0-012 | Memory Engine | Planned | Memory Engine architecture |
-| S0-013 | Shared Core Architecture | Planned | Shared mobile/core architecture |
+| S0-013 | Shared Core Architecture | Done | Shared mobile/core architecture |
 
 ## Package Definition
 
