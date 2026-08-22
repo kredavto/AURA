@@ -16,3 +16,4 @@ All notable changes to AURA will be documented in this file.
 - Updated product context: AURA is a commercial offline-first local LLM assistant for mobile devices and daily use.
 - Accepted value proposition validation as a required stage before active code development.
 - Completed S0-002 Master Index as the top-level repository navigation map.
+- Completed S0-003 ADR-0001...0010 as the foundational architecture decision set.
