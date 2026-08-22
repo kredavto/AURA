@@ -21,3 +21,4 @@ All notable changes to AURA will be documented in this file.
 - Completed S0-004 Mobile Client Architecture.
 - Completed S0-005 Android Architecture.
 - Completed S0-006 iOS Architecture.
+- Completed S0-011 AI Architecture.
