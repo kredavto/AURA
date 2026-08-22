@@ -79,20 +79,20 @@ The goal of v0.2 is to complete the foundation needed before Claude Code starts 
 | --- | --- | --- |
 | `docs/02_Architecture/README.md` | Architecture section index | Active |
 | `docs/adr/README.md` | Architecture Decision Records section index | Active |
+| `docs/adr/0001-local-first-mobile-llm.md` | Local-first mobile LLM decision | Accepted |
+| `docs/adr/0002-offline-first-operation.md` | Offline-first operation decision | Accepted |
+| `docs/adr/0003-local-memory-first.md` | Local memory first decision | Accepted |
+| `docs/adr/0004-mobile-platform-split.md` | Shared architecture with platform-specific Android/iOS plans | Accepted |
+| `docs/adr/0005-on-device-model-runtime.md` | On-device runtime as core system component | Accepted |
+| `docs/adr/0006-voice-first-interface.md` | Voice-first, not voice-only, interaction model | Accepted |
+| `docs/adr/0007-security-and-privacy-boundary.md` | Device as MVP security boundary | Accepted |
+| `docs/adr/0008-value-proposition-before-code.md` | Validation stage before active code development | Accepted |
+| `docs/adr/0009-repository-release-model.md` | Repository releases as unit of progress | Accepted |
+| `docs/adr/0010-claude-code-implementation-boundary.md` | Implementation agent decision boundary | Accepted |
 
-Planned Sprint 0 outputs:
+Planned Sprint 0 output:
 
 - `docs/02_Architecture/shared-core-architecture.md`
-- `docs/adr/0001-local-first-mobile-llm.md`
-- `docs/adr/0002-offline-first-operation.md`
-- `docs/adr/0003-local-memory-first.md`
-- `docs/adr/0004-mobile-platform-split.md`
-- `docs/adr/0005-on-device-model-runtime.md`
-- `docs/adr/0006-voice-first-interface.md`
-- `docs/adr/0007-security-and-privacy-boundary.md`
-- `docs/adr/0008-value-proposition-before-code.md`
-- `docs/adr/0009-repository-release-model.md`
-- `docs/adr/0010-claude-code-implementation-boundary.md`
 
 ## AI
 
@@ -162,7 +162,7 @@ Planned Sprint 0 output:
 | --- | --- | --- |
 | S0-001 | AURA Spec | Done |
 | S0-002 | Master Index | Done |
-| S0-003 | ADR-0001...0010 | Planned |
+| S0-003 | ADR-0001...0010 | Done |
 | S0-004 | Mobile Client Architecture | Planned |
 | S0-005 | Android Architecture | Planned |
 | S0-006 | iOS Architecture | Planned |
@@ -179,7 +179,7 @@ Planned Sprint 0 output:
 Next task:
 
 ```text
-S0-003: ADR-0001...0010
+S0-013: Shared Core Architecture
 ```
 
-Reason: foundational ADRs should lock architecture constraints before detailed mobile, AI, memory, speech, and security documents are expanded.
+Reason: shared core boundaries should be defined before detailed mobile, AI, memory, speech, and security documents are expanded.
