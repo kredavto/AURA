@@ -26,6 +26,7 @@
 - S0-003 Architecture Decision Records
 - S0-013 Shared Core Architecture
 - S0-004 Mobile Client Architecture
+- S0-005 Android Architecture
 - AI architecture
 - Memory Engine
 - STT Engine
