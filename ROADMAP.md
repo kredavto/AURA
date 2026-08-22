@@ -28,7 +28,7 @@
 - S0-004 Mobile Client Architecture
 - S0-005 Android Architecture
 - S0-006 iOS Architecture
-- AI architecture
+- S0-011 AI Architecture
 - Memory Engine
 - STT Engine
 - TTS Engine
