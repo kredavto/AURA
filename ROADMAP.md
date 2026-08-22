@@ -27,6 +27,7 @@
 - S0-013 Shared Core Architecture
 - S0-004 Mobile Client Architecture
 - S0-005 Android Architecture
+- S0-006 iOS Architecture
 - AI architecture
 - Memory Engine
 - STT Engine
