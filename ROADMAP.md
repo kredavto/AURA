@@ -25,7 +25,7 @@
 - S0-002 Master Index
 - S0-003 Architecture Decision Records
 - S0-013 Shared Core Architecture
-- Mobile architecture
+- S0-004 Mobile Client Architecture
 - AI architecture
 - Memory Engine
 - STT Engine
