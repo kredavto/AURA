@@ -55,7 +55,7 @@ Sprint 0 includes:
 | S0-010 | Security Architecture | Planned | `docs/05_Security/security-architecture.md` |
 | S0-011 | AI Architecture | Planned | `docs/03_AI/ai-architecture.md` |
 | S0-012 | Memory Engine | Planned | `docs/03_AI/memory-engine.md` |
-| S0-013 | Shared Core Architecture | Planned | `docs/02_Architecture/shared-core-architecture.md` |
+| S0-013 | Shared Core Architecture | Done | `docs/02_Architecture/shared-core-architecture.md` |
 
 ## Definition Of Done
 
