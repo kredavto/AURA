@@ -38,7 +38,7 @@ It must work autonomously on user devices, including offline use without interne
 | ID | Task | Status | Expected Output |
 | --- | --- | --- | --- |
 | S0-001 | AURA Specification | Done | `docs/00_Project/aura-spec.md` |
-| S0-002 | Master Index | Planned | Repository-wide navigation and document map |
+| S0-002 | Master Index | Done | Repository-wide navigation and document map |
 | S0-003 | ADR-0001...0010 | Planned | Ten foundational architecture decision records |
 | S0-004 | Mobile Client Architecture | Planned | Cross-platform mobile architecture |
 | S0-005 | Android Architecture | Planned | Android-specific architecture |
