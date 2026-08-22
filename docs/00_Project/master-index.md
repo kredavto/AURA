@@ -78,6 +78,7 @@ The goal of v0.2 is to complete the foundation needed before Claude Code starts 
 | Path | Purpose | Status |
 | --- | --- | --- |
 | `docs/02_Architecture/README.md` | Architecture section index | Active |
+| `docs/02_Architecture/shared-core-architecture.md` | Shared architecture core for mobile, AI, memory, speech, and security boundaries | Accepted |
 | `docs/adr/README.md` | Architecture Decision Records section index | Active |
 | `docs/adr/0001-local-first-mobile-llm.md` | Local-first mobile LLM decision | Accepted |
 | `docs/adr/0002-offline-first-operation.md` | Offline-first operation decision | Accepted |
@@ -89,10 +90,6 @@ The goal of v0.2 is to complete the foundation needed before Claude Code starts 
 | `docs/adr/0008-value-proposition-before-code.md` | Validation stage before active code development | Accepted |
 | `docs/adr/0009-repository-release-model.md` | Repository releases as unit of progress | Accepted |
 | `docs/adr/0010-claude-code-implementation-boundary.md` | Implementation agent decision boundary | Accepted |
-
-Planned Sprint 0 output:
-
-- `docs/02_Architecture/shared-core-architecture.md`
 
 ## AI
 
@@ -172,14 +169,14 @@ Planned Sprint 0 output:
 | S0-010 | Security Architecture | Planned |
 | S0-011 | AI Architecture | Planned |
 | S0-012 | Memory Engine | Planned |
-| S0-013 | Shared Core Architecture | Planned |
+| S0-013 | Shared Core Architecture | Done |
 
 ## Next Recommended Task
 
 Next task:
 
 ```text
-S0-013: Shared Core Architecture
+S0-004: Mobile Client Architecture
 ```
 
-Reason: shared core boundaries should be defined before detailed mobile, AI, memory, speech, and security documents are expanded.
+Reason: mobile client architecture should now map the accepted shared core to the user-facing mobile application structure before Android and iOS details are expanded.
