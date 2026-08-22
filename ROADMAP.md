@@ -22,7 +22,7 @@
 - Sprint 0 package
 - Sprint 0 Foundation Repository plan
 - S0-001 AURA Specification
-- Master index
+- S0-002 Master Index
 - Architecture decision records
 - Mobile architecture
 - AI architecture
