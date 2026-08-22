@@ -44,7 +44,7 @@ Sprint 0 includes:
 | ID | Task | Status | Output |
 | --- | --- | --- | --- |
 | S0-001 | AURA Spec | Done | `docs/00_Project/aura-spec.md` |
-| S0-002 | Master Index | Planned | `docs/00_Project/master-index.md` |
+| S0-002 | Master Index | Done | `docs/00_Project/master-index.md` |
 | S0-003 | ADR-0001...0010 | Planned | `docs/adr/` |
 | S0-004 | Mobile Client Architecture | Planned | `docs/04_Mobile/mobile-client-architecture.md` |
 | S0-005 | Android Architecture | Planned | `docs/04_Mobile/android-architecture.md` |
