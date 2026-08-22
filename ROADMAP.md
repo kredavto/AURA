@@ -24,6 +24,7 @@
 - S0-001 AURA Specification
 - S0-002 Master Index
 - S0-003 Architecture Decision Records
+- S0-013 Shared Core Architecture
 - Mobile architecture
 - AI architecture
 - Memory Engine
